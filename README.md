@@ -1,4 +1,4 @@
 # sidrakhan-demo
 This is my first git repository.
 <br>
-Author - Sidra Khan
+Author - Sidra Khan (Khan)
